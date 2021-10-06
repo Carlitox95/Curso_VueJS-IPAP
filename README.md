@@ -1,6 +1,5 @@
 # curso_vue
-
-> Curso de Vue JS el IPAP 2021
+Curso de Vue JS el IPAP 2021
 
 ## Build Setup
 
